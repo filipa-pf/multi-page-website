@@ -2,12 +2,4 @@ body {
   background-color: #dcb25e;
 }
 
-.croissant-img {
-  background-image: url("/images/croissants.jpg") !important;
-  background-repeat: no-repeat;
-  background-size: cover;
-  border-radius: 0;
-  margin-bottom: 0;
-  overflow: hidden;
-  position: relative;
-}
+
