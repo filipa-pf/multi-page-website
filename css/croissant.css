@@ -3,5 +3,5 @@ body {
 }
 
 .croissant-img {
-    background-image: url(/images/croissants.jpg);
+    background-image: url("/images/croissants.jpg");
 }
