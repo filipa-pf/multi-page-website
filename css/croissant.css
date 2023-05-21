@@ -1,3 +1,7 @@
 body {
     background-color: #DCB25E;
 }
+
+.croissant-img {
+    background-image: url(/images/croissants.jpg);
+}
